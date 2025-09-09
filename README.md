@@ -5,7 +5,7 @@ A program that records client purchases from stores, prints receipts, and saves 
 ## Features
 - Records purchases for clients for multiple stores
 - Prints formatted receipts
-- Saves purchases to `.txt` files
+- Saves purchases to .txt files
 - Serializes and deserializes objects
 
 ## Installation
