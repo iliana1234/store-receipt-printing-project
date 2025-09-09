@@ -13,4 +13,4 @@ A program that records client purchases from stores, prints receipts, and saves 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/receipt-manager.git
+   git clone https://github.com/iliana1234/store-receipt-printing-project.git
