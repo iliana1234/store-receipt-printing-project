@@ -1,14 +1,14 @@
 # store-receipt-printing-project
 
-# Receipt Manager
+# Receipt printing java project
 
-A simple program that records client purchases from stores, prints receipts, and saves data into `.txt` files. Supports serialization and deserialization of purchase records.
+A program that records client purchases from stores, prints receipts, and saves data into .txt files. Supports serialization and deserialization of purchase records. It is written in Java.
 
 ## Features
-- Record purchases for multiple clients
-- Print formatted receipts
-- Save purchases to `.txt` files
-- Serialize and deserialize objects for persistent storage
+- Records purchases for clients for multiple stores
+- Prints formatted receipts
+- Saves purchases to `.txt` files
+- Serializes and deserializes objects
 
 ## Installation
 1. Clone the repository:
